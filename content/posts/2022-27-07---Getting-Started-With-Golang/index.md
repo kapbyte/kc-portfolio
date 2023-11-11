@@ -1,6 +1,6 @@
 ---
 title: "Getting started with Golang."
-date: "2022-06-27T23:46:37.121Z"
+date: "2022-07-27T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/getting-started-with-golang"
